@@ -1,0 +1,150 @@
+/* CSS Document */
+
+body {
+	font: 14px OpenSans;
+	color: #FFFFFF !important;
+	background:#999999 !important;
+}
+.margin10 {
+	margin-top:20px;
+}
+h1 {
+	color:white;
+	background:black;
+	border: white solid;
+}
+p {
+	color:yellow;
+	font-family: Verdana Ref;
+	font-size: 22px;
+	font-weight: 100;
+	text-align: center;
+}
+a:visited {
+	color: #000;
+}
+a:hover {
+	color: #639;
+	text-decoration:none;
+}
+
+.cb {
+	clear:both;
+}
+.buttonbg {
+	background-color:#00929E;
+}
+
+/* CSS for Admin Login Page */
+
+.cms {
+	background:#fff;
+	margin:0 auto;
+}
+.loginForm {
+	padding-top: 42px;
+}
+.cmsTitle {
+	font-size: 30px;
+	padding: 14px 10px;
+	color: #FFF;
+	background: #00929e;
+	font-weight: bold;
+	margin:5px;
+}
+.welcomeAdmin {
+	font-size: 20px;
+	padding: 4px 5px;
+	color: #053863;
+	background: #CCC;
+	font-family: initial;
+	margin: 5px;
+	font-weight: bold;
+}
+.adminLogin {
+	font-size: 16px;
+	padding: 4px 5px;
+	color: #fff;
+	background: #96AEC7;
+	font-family: monospace;
+	margin-bottom: 15px;
+	font-weight: bold;
+}
+.control-label {
+	color:#053863;
+}
+.brownHeight {
+	background: #CCC;
+	margin: 5px 5px 15px 5px;
+	height:20px;
+}
+.login {
+	width: 73px;
+	height: 40px;
+	border: 1px solid #7F9DB9;
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+.login:hover {
+	background:#00929e;
+	color:#fff;
+}
+
+.tableTd{
+	    color: #000;
+    font-size: 11px;
+    font-weight: bold;}
+
+
+/* CSS for Admin Left */
+
+
+.admin_left {
+	background:#ECECEC;
+	margin-bottom:10px;
+}
+.list-group-item {
+	border-top-left-radius: 0px !important;
+	border-top-right-radius: 0px!important;
+	border-bottom-left-radius: 0px!important;
+	border-bottom-right-radius: 0px!important;
+}
+
+.admin_left_title {
+	font-size: 16px;
+	padding: 4px 5px;
+	color: #fff;
+	background: #96AEC7;
+	font-family: monospace;
+	font-weight: bold;
+}
+
+/* CSS for Admin Right */
+
+
+.admin_right {
+	color:#999;
+}
+
+.tbl_head{
+	color:#000;
+	}
+
+
+.margin10 {
+	margin-top:25px;
+}
+
+
+/* CSS for Footer */
+
+.footer {
+	font-size: 12px;
+	padding: 8px 8px;
+	color: #053863;
+	background: #CCC;
+	font-family: initial;
+	text-align:center;
+	margin-top:20px;
+}
